@@ -22,7 +22,7 @@ export const meta = {
    */
   tagline: ["Leads systems", "that scale", "under pressure."],
   summary:
-    "Senior Software Engineer and Tech Lead with 7+ years building scalable, enterprise-grade systems across fintech, ERP, and AI. Modernizes legacy platforms into microservices, leads cross-functional engineering teams, and ships AI-native tooling on OpenAI and Anthropic APIs across the full stack.",
+    "Senior Software Engineer and Tech Lead with 8+ years building scalable, enterprise-grade systems across fintech, ERP, and AI. Modernizes legacy platforms into microservices, leads cross-functional engineering teams, and ships AI-native tooling on OpenAI and Anthropic APIs across the full stack.",
 };
 
 export type Project = {
@@ -102,7 +102,7 @@ export const projects: Project[] = [
 ];
 
 export const numbers = [
-  { value: "7+", label: "Years shipping production systems" },
+  { value: "8+", label: "Years shipping production systems" },
   { value: "3x", label: "Promoted into technical leadership" },
   { value: "700K+", label: "Installs on shipped fintech products" },
   { value: "60K+", label: "Daily active users served" },
@@ -130,6 +130,22 @@ export const capabilities = [
     group: "Infrastructure",
     items: ["AWS", "Docker", "PostgreSQL", "MSSQL", "Redis", "CI/CD"],
   },
+];
+
+/** Rendered by the Clients section. */
+export const clients = [
+  "Maybank",
+  "Wealth One Bank Canada",
+  "Caary Capital",
+  "Trukkr",
+  "CreditBook",
+  "SafeRoad Compliance",
+  "Tilism Pvt Ltd",
+  "M3 Technologies",
+  "Meezan Bank",
+  "Bank Islami",
+  "Toyota",
+  "Jazz",
 ];
 
 /**
